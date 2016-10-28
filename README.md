@@ -12,8 +12,8 @@
     color: yellow;
     text-align: center
     }
-    </style>
-    
+ </style>
+ </head>    
     
 <body>
 <p1> Free T-shirt Mvmt </p1>
