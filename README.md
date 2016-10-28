@@ -12,9 +12,15 @@
     color: yellow;
     text-align: center
     }
+    </style>
+    </head>   
+    
 <body>
 <p1> Free T-shirt Mvmt </p1>
 
 <p2> I love free t-shirts. </p2>
+</body>
+
+</html>
 
 
