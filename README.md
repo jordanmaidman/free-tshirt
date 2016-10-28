@@ -13,7 +13,7 @@
     text-align: center
     }
     </style>
-    </head>       
+    
     
 <body>
 <p1> Free T-shirt Mvmt </p1>
